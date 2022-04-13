@@ -38,3 +38,28 @@ These are the tools, environment variables and libraries used in the project.
 
 To use this project, you need to clone the repository.
 
+``> git clone https://github.com/grayoj/income-prediction.git``
+
+After you finish cloning, install these modules using Pip
+
+Install Sklearn
+
+``> pip install sklearn``
+
+Install Pandas to read datasets (CSV)
+
+``> pip install pandas``
+
+Install NumPy
+
+``> pip install numpy``
+
+Ensure you have Jupyter Notebook installed, which you could easily set up if you use VsCode
+
+### Try out the notebook!
+
+<img src="LinearRegression.png">
+
+Any suggestions, feedback and help, as well as improvements are all welcome and will be appreciated.
+Contact!
+<a href="mailto:mgeraldoj07@gmail.com">Mail me, here.</a>

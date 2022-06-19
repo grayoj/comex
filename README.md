@@ -29,9 +29,9 @@ These are the tools, environment variables and libraries used in the project.
 
 1. Jupyter Notebook.
 2. Python 3+
-3. SickitLearn
-4. Pandas
-5. Numpy Libraries
+3. SickitLearn.
+4. Pandas.
+5. Numpy.
 6. Data Set (Already Provided)
 
 ## Installation

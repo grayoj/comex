@@ -63,3 +63,5 @@ Ensure you have Jupyter Notebook installed, which you could easily set up if you
 Any suggestions, feedback and help, as well as improvements are all welcome and will be appreciated.
 Contact!
 <a href="mailto:mgeraldoj07@gmail.com">Mail me, here.</a>
+
+- MIT License.

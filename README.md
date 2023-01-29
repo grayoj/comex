@@ -1,19 +1,19 @@
 # Linear Regression Model
 ***
 
-In this project (jupyter notebook) we are using <a href="https://scikit-learn.org/">SickitLearn</a> model, to perform linear regression to make income predictions with the dataset made available in the repository.
+In this project (jupyter notebook) we are using a <a href="https://scikit-learn.org/">SickitLearn</a> model, to perform linear regression to make income predictions with the dataset made available in the repository.
 
 Linear regression, is a supervised machine learning model which implements a linear relationship between an independent and 
 dependent variable. It is a statistical method of making predictive analysis.  We can illustrate linear regression by the below formula:
 
-<i>y= a<sub>0</sub>+a<sub>1</sub>x+ ε</i>
+<i>$y=a$<sub>$0$</sub>$+a$<sub>$1$</sub>$x+ ε$</i>
 
 Where
-<i>Y</i> represents  = The Dependent Variable (Target Variable)
-X represents = The Independent Variable (Predictor Variable)
-a0 represents = The intercept of the line (Gives an additional degree of freedom)
-a1 represents = The Linear regression coefficient (Scale factor for each input value)
-ε represents = The Random error
+- <i>$Y$</i> represents  = The Dependent Variable (Target Variable)
+- $X$ represents = The Independent Variable (Predictor Variable)
+- $a0$ represents = The intercept of the line (Gives an additional degree of freedom)
+- $a1$ represents = The Linear regression coefficient (Scale factor for each input value)
+- $ε$ represents = The Random error
 
 ## Preparing Data For Linear Regression
 ***
